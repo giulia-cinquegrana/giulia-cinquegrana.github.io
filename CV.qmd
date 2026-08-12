@@ -1,0 +1,169 @@
+---
+title: "Long CV"
+toc: true
+toc-location: left
+toc-depth: 2
+---
+
+**Dr Giulia Cinquegrana**  
+*Research Software Engineer*  
+Centre for Astrophysics & Supercomputing, Swinburne University of Technology
+
+<i class="bi bi-github"></i> [GitHub](https://github.com/yourusername) •
+<i class="bi bi-person-badge"></i> [ORCID](https://orcid.org/0000-0000-0000-0000) •
+<i class="bi bi-mortarboard"></i> [Google Scholar](https://scholar.google.com/citations?user=YOURID) •
+<i class="bi bi-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/yourusername/)
+
+---
+
+## Professional Experience
+
+### Research Software Engineer
+**Centre for Astrophysics & Supercomputing**  
+*Swinburne University of Technology*  
+**2025 – Present**
+
+### Contract Data Scientist
+**Sofware Development Team**  
+*Psych Press | Talent Management Psychologists*  
+**2025 - Present**
+
+### Artificial Intelligence & Machine Reasoning Intern
+**Advanced Systems & Technologies R&D**  
+*Lockheed Martin Australia*  
+**2023**
+
+## Education
+
+### Doctor of Philosophy (Computational Astrophysics)
+**Monash University** | 2020–2024
+
+- Thesis: *The Edge of Enrichment: Contributions of Very Metal-Rich Stars to the Origin of the Elements*
+- Supervisors: Prof. Amanda Karakas and Prof. Alexander Heger
+
+### Bachelor of Science (Honours, First Class)
+**Monash University** | 2018–2019
+
+- Majors: Mathematics & Astrophysics
+- Honours thesis: *Nucleosynthesis in Metal-Rich AGB Stars*
+- Supervisor: Prof. Amanda Karakas
+
+## Journal publications
+
+### 1st-author
+
+1. **Cinquegrana, G.C.**, Humble, R., Chan, C., Hurley, J., *Deploying the Robinhood Policy Engine on Production Lustre Environments: Experiences from New and Mature Filesystems*, 17th International Workshop on Performance Modeling, Benchmarking and Simulation of High Performance Computer Systems - in conjunction with SC26 (submitted)
+
+2. **Cinquegrana, G.C.**, Joyce, M. and Karakas, A.I., 2023, *Bridging the gap between intermediate and massive stars II: $M_{\rm mas}$ for the most metal-rich stars and implications for Fe CCSNe rates*, Monthly Notices of the Royal Astronomical Society, 525(3), pp.3216-3235.
+
+3. **Cinquegrana, G.C.**, Joyce, M. and Karakas, A.I., 2022, *Bridging the Gap between Intermediate and Massive Stars. I. Validation of MESA against the State-of-the-Art Monash Stellar Evolution Program for a $\,2\,\rm M_\odot$ AGB Star*, The Astrophysical Journal, 939(1), p.50.
+
+4. **Cinquegrana, G.C.** and Joyce, M., 2022, *Solar calibration of the convective mixing length for use with the AESOPUS opacities in MESA*, Research Notes of the AAS, 6(4), p.77.
+
+5. **Cinquegrana, G.C.** and Karakas, A.I., 2022, *The most metal-rich stars in the universe: chemical contributions of low-and intermediate-mass asymptotic giant branch stars with metallicities within $\,0.04 \leq Z \leq 0.10$*, Monthly Notices of the Royal Astronomical Society, 510(2), pp.1557-1576.
+
+### Co-Author
+
+1. Lugaro, M., **Cinquegrana, G.C.**, Szányi, B., Ball, J.M., Cseh, B., Ek, M., Karakas, A.I., Schönbächler, M. and Lattanzio, J.C., 2026, *Predictions from s-process AGB models of the isotopic variations of zirconium and neodymium for comparison to bulk meteorites,* The European Physical Journal A, 62(4), p.80.
+
+2. Owusu, E.K., Ruiter, A.J., Kemp, A.J., Buder, S., Seitenzahl, I.R., Rodriguez-Segovia, N., Pakmor, R., **Cinquegrana, G.C.**, Storm, N., Eitner, P. and Bergemann, M., 2026, *Testing stellar yield prescriptions in omega+: implications for rising sodium abundances in young thick disc stars,* Monthly Notices of the Royal Astronomical Society, 545(2), p.staf2079.
+
+3. Sayeed, M., Yang, S.F., **Cinquegrana, G.**, Ness, M.K., Breivik, K., Casey, A.R., Buder, S. and Karakas, A.I., 2025, *Probing Binary Architectures of Lithium-rich Giants in GALAH with COSMIC and Stellar Models,* The Astrophysical Journal, 991(1), p.73.
+
+4. Joyce, M., Molnár, L., **Cinquegrana, G.**, Karakas, A., Tayar, J. and Tarczay-Nehéz, D., 2024, *Stellar Evolution in Real Time. II. R Hydrae and an Open-Source Grid of > 3000 Seismic TP-AGB Models Computed with MESA,* The Astrophysical Journal, 971(2), p.186.
+
+5. Marshall, C., Setoodehnia, K., **Cinquegrana, G.C.**, Kelly, J.H., Portillo Chaves, F., Karakas, A. and Longland, R., 2023, *New constraints on sodium production in globular clusters from the $\, ^{23}\mathrm{Na}\, (^3\mathrm{He}, d)\, ^{24}\mathrm{Mg}$ reaction,* Physical Review C, 107(3), p.035806.
+
+6. Jermyn, A.S., et al. (incl. **Cinquegrana, G.** 13th), 2023, *Modules for experiments in stellar astrophysics (MESA): time-dependent convection, energy conservation, automatic differentiation, and infrastructure,* The Astrophysical Journal Supplement Series, 265(1), p.15.
+
+7. Karakas, A.I., **Cinquegrana, G.** and Joyce, M., 2022, *The most metal-rich asymptotic giant branch stars,* Monthly Notices of the Royal Astronomical Society, 509(3), pp.4430-4447.
+
+## Presentations
+
+### Invited Seminars & Lectures
+
+**"The Origin of the Heavy Elements: Stellar Nucleosynthesis"**  
+*Lecture, BRIDGCE 2026 School, University of Hertfordshire*, Hatfield, England [2026]
+
+**"TBD"**  
+*Seminar, Kyoto University*, Kyoto, Japan [2026]
+
+**"Metallicity-Dependent Nucleosynthesis and the Chemical Evolution of Nuclear Star Clusters"**  
+*Seminar, Carnegie Observatories*, California, United States [2025]
+
+**"Nucleosynthetic Contributions of Very Metal-Rich Stars"**  
+*Opening conference talk, Advances in Cool Evolved Stars*, Melbourne, Australia [2024]
+
+**"The Most Metal-Rich AGB Stars"**  
+*Seminar, Indiana University*, Indiana, United States [2022]
+
+### Contributed Conference Talks
+
+**“Chemical enrichment from AGBs in the 300S stream”**  
+*Nucleosynthesis from Stars to Galaxies*, Tucson, United States [2026]
+
+**“Nucleosynthetic Contributions of Very Metal-Rich Stars”**  
+*Connecting Simulations and Observations in 3D Across Cosmic Time*, Adelaide, Australia [2024]  
+
+**“Implications of a High Metallicity on the Minimum Mass for a SNe Type II”**  
+*Australian National Institute for Theoretical Astrophysics (ANITA) Annual Workshop*, Adelaide, Australia [2023]
+
+**“The Most Metal-Rich AGB Stars”**  
+*A Comprehensive View of Galaxy Evolution from the Milky Way to I Zwicky 18*, Sesto Pusteria, Italy [2022]
+
+**“Modelling the Chemical Contributions of High Metallicity AGB and Super-AGB Stars”**  
+*DELVE: the death-throes of evolved stars, a virtual encounter*, KU Leuven, Belgium [2021]
+
+## Awards
+
+**[Jean-Pierre Macquart Prize for Best Student Talk](https://anita.edu.au/meetings.html)**  
+*ANITA Workshop*, Adelaide, Australia [2023]
+
+**[CSIRO Alumni Scholarship in Physics](https://alumni.csiro.au/announcing-the-2023-csiro-alumni-scholarship-in-physics-winner/)**  
+*Commonwealth Scientific and Industrial Research Organisation*, Australia [2023]
+
+**[ASA Prize for Best Student Poster](https://asa.astronomy.org.au/prizes_and_grants/prizes-awards/asa-student-prizes/)**  
+*Astronomical Society of Australia*, Australia [2023]
+
+## Professional Qualifications
+
+### Associate Fellow (AFHEA)
+**[Advance HE](https://www.advance-he.ac.uk/fellowship/fellowship)**  
+**2023**
+
+## Teaching
+
+**HPC Training for PhD Students, Centre for Astrophysics & Supercomputing**  
+*Swinburne University of Technology*, Australia [2026]  
+*Materials: [High Performance Computing for Research](https://github.com/giulia-cinquegrana/swincas_intro_to_ozstar)*  
+
+**Teaching Assistant and Organiser, MESA Summer Schools**  
+*[The University of Sydney](https://maygpedersen.github.io/mesa-down-under-2024/)*, Australia [2024]  
+*[Konkoly Observatory](https://mesastar.org/summer-school-2023/)*, Hungary [2023]  
+*[University of California, Santa Barbara](https://mesastar.org/summer-school-2022/)*, United States [2022]
+
+**Teaching Assistant, School of Physics & Astronomy**  
+*Monash University, Australia* [2019–2025]  
+Undergraduate and Honours: PHS1011, PHS1022, ASP1010, ASP4200
+
+**Science Educator, Victorian Space Science Education Centre (VSSEC)**  
+*Strathmore Secondary College, Australia* [2015–2018]  
+Primary and Secondary School
+
+## Service and Outreach
+
+**Material Development and Facilitation, Women in Physics Networking Session**  
+*Vicphysics Teachers' Network*, Kensington Town Hall, Australia [2026]
+
+**Master of Ceremonies, Girls in Physics Breakfasts**  
+*Vicphysics Teachers' Network*, Australia [2023–present]  
+Breakfast seminars connecting high school students with women working in physics and related fields.  
+*Selected coverage:* [2026 Australian Synchrotron](https://www.ansto.gov.au/news/annual-girls-physics-breakfast-held-at-australian-synchrotron) · [2026 Kensington Town Hall](https://www.linkedin.com/posts/the-australian-institute-of-physics_scienceweek-womeninphysics-sciencecommunication-activity-7487681657500487680-G1FZ)  
+
+**Author, "Where Can Physics Take Me?"**  
+*Science Victoria*, p. 37 [2023]  
+Article promoting the *Where to with Physics* website. [Article (PDF)](files/RSV_wheretowithphysics.pdf)
+
+**Interviewer and Author, "Where to with Physics?" website**  
+*Vicphysics Teachers' Network*, Australia [2021]  
+*Website:* [https://wheretowithphysics.org.au/](https://wheretowithphysics.org.au/) 
