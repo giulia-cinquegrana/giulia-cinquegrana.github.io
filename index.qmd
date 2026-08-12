@@ -2,7 +2,7 @@
 
 <div class="home-photo">
 
-![](Files/IMG_4630.JPG)
+![](files/IMG_4630.JPG)
 
 </div>
 
