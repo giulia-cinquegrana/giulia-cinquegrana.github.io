@@ -1,0 +1,56 @@
+# Publications
+
+[Google Scholar profile](https://scholar.google.com.au/citations?user=0L16GYkAAAAJ&hl=en&oi=ao) · [Full publication list →](CV.html)
+
+## High-Performance Computing
+
+**Cinquegrana, G. C.**, Humble, R., Chan, C., & Hurley, J. [2026]  
+*Deploying the Robinhood Policy Engine on Production Lustre Environments: Experiences from New & Mature Filesystems*  
+17th International Workshop on Performance Modeling, Benchmarking and Simulation of High Performance Computer Systems (PMBS26), in conjunction with SC26 [submitted].
+
+
+## Models Against Observational and Experimental Data
+
+Lugaro, M., **Cinquegrana, G. C.**, Szányi, B., Ball, J. M., Cseh, B., Ek, M., Karakas, A. I., Schönbächler, M., & Lattanzio, J. C. [2026]  
+*Predictions from s-process AGB models of the isotopic variations of zirconium and neodymium for comparison to bulk meteorites*  
+The European Physical Journal A, **62**(4), 80.
+
+Owusu, E. K., Ruiter, A. J., Kemp, A. J., Buder, S., Seitenzahl, I. R., Rodriguez-Segovia, N., Pakmor, R., **Cinquegrana, G. C.**, Storm, N., Eitner, P., & Bergemann, M. [2026]  
+*Testing stellar yield prescriptions in omega+: implications for rising sodium abundances in young thick disc stars*  
+Monthly Notices of the Royal Astronomical Society, **545**(2), st​af2079.
+
+Sayeed, M., Yang, S. F., **Cinquegrana, G. C.**, Ness, M. K., Breivik, K., Casey, A. R., Buder, S., & Karakas, A. I. [2025]  
+*Probing Binary Architectures of Lithium-rich Giants in GALAH with COSMIC and Stellar Models*  
+The Astrophysical Journal, **991**(1), 73.
+
+Marshall, C., Setoodehnia, K., **Cinquegrana, G. C.**, Kelly, J. H., Portillo Chaves, F., Karakas, A. I., & Longland, R. [2023]  
+*New constraints on sodium production in globular clusters from the $^{23}\mathrm{Na}(^3\mathrm{He},d)^{24}\mathrm{Mg}$ reaction*  
+Physical Review C, **107**(3), 035806.
+
+## Stellar Yields
+
+**Cinquegrana, G. C.** & Karakas, A. I. [2022]  
+*The most metal-rich stars in the universe: chemical contributions of low- and intermediate-mass asymptotic giant branch stars with metallicities within $0.04 \leq Z \leq 0.10$*  
+Monthly Notices of the Royal Astronomical Society, **510**(2), 1557–1576.
+
+## Stellar Structure and Evolution
+
+**Cinquegrana, G. C.**, Joyce, M., & Karakas, A. I. [2023]  
+*Bridging the gap between intermediate and massive stars II: $M_{\rm mas}$ for the most metal-rich stars and implications for Fe CCSNe rates*  
+Monthly Notices of the Royal Astronomical Society, **525**(3), 3216–3235.
+
+Jermyn, A. S., et al. (incl. **Cinquegrana, G. C.**) [2023]  
+*Modules for experiments in stellar astrophysics (MESA): time-dependent convection, energy conservation, automatic differentiation, and infrastructure*  
+The Astrophysical Journal Supplement Series, **265**(1), 15.
+
+**Cinquegrana, G. C.**, Joyce, M., & Karakas, A. I. [2022]  
+*Bridging the gap between intermediate and massive stars I: Validation of MESA against the state-of-the-art Monash Stellar Evolution Program for a $2\,M_\odot$ AGB star*  
+The Astrophysical Journal, **939**(1), 50.
+
+Karakas, A. I., **Cinquegrana, G. C.**, & Joyce, M. [2022]  
+*The most metal-rich asymptotic giant branch stars*  
+Monthly Notices of the Royal Astronomical Society, **509**(3), 4430–4447.
+
+**Cinquegrana, G. C.** & Joyce, M. [2022]  
+*Solar calibration of the convective mixing length for use with the AESOPUS opacities in MESA*  
+Research Notes of the AAS, **6**(4), 77.
