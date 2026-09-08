@@ -52,15 +52,13 @@ Centre for Astrophysics & Supercomputing, Swinburne University of Technology
 
 ### 1st-author
 
-1. **Cinquegrana, G.C.**, Humble, R., Chan, C., Hurley, J., *Deploying the Robinhood Policy Engine on Production Lustre Environments: Experiences from New and Mature Filesystems*, 17th International Workshop on Performance Modeling, Benchmarking and Simulation of High Performance Computer Systems - in conjunction with SC26 (submitted)
+1. **Cinquegrana, G.C.**, Joyce, M. and Karakas, A.I., 2023, *Bridging the gap between intermediate and massive stars II: $M_{\rm mas}$ for the most metal-rich stars and implications for Fe CCSNe rates*, Monthly Notices of the Royal Astronomical Society, 525(3), pp.3216-3235.
 
-2. **Cinquegrana, G.C.**, Joyce, M. and Karakas, A.I., 2023, *Bridging the gap between intermediate and massive stars II: $M_{\rm mas}$ for the most metal-rich stars and implications for Fe CCSNe rates*, Monthly Notices of the Royal Astronomical Society, 525(3), pp.3216-3235.
+2. **Cinquegrana, G.C.**, Joyce, M. and Karakas, A.I., 2022, *Bridging the Gap between Intermediate and Massive Stars. I. Validation of MESA against the State-of-the-Art Monash Stellar Evolution Program for a $\,2\,\rm M_\odot$ AGB Star*, The Astrophysical Journal, 939(1), p.50.
 
-3. **Cinquegrana, G.C.**, Joyce, M. and Karakas, A.I., 2022, *Bridging the Gap between Intermediate and Massive Stars. I. Validation of MESA against the State-of-the-Art Monash Stellar Evolution Program for a $\,2\,\rm M_\odot$ AGB Star*, The Astrophysical Journal, 939(1), p.50.
+3. **Cinquegrana, G.C.** and Joyce, M., 2022, *Solar calibration of the convective mixing length for use with the AESOPUS opacities in MESA*, Research Notes of the AAS, 6(4), p.77.
 
-4. **Cinquegrana, G.C.** and Joyce, M., 2022, *Solar calibration of the convective mixing length for use with the AESOPUS opacities in MESA*, Research Notes of the AAS, 6(4), p.77.
-
-5. **Cinquegrana, G.C.** and Karakas, A.I., 2022, *The most metal-rich stars in the universe: chemical contributions of low-and intermediate-mass asymptotic giant branch stars with metallicities within $\,0.04 \leq Z \leq 0.10$*, Monthly Notices of the Royal Astronomical Society, 510(2), pp.1557-1576.
+4. **Cinquegrana, G.C.** and Karakas, A.I., 2022, *The most metal-rich stars in the universe: chemical contributions of low-and intermediate-mass asymptotic giant branch stars with metallicities within $\,0.04 \leq Z \leq 0.10$*, Monthly Notices of the Royal Astronomical Society, 510(2), pp.1557-1576.
 
 ### Co-Author
 
