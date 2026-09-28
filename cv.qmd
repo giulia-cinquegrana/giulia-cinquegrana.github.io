@@ -9,10 +9,12 @@ toc-depth: 2
 *Research Software Engineer*  
 Centre for Astrophysics & Supercomputing, Swinburne University of Technology
 
-<i class="bi bi-github"></i> [GitHub](https://github.com/yourusername) •
-<i class="bi bi-person-badge"></i> [ORCID](https://orcid.org/0000-0000-0000-0000) •
-<i class="bi bi-mortarboard"></i> [Google Scholar](https://scholar.google.com/citations?user=YOURID) •
-<i class="bi bi-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/yourusername/)
+<i class="bi bi-github"></i> [GitHub](https://github.com/giulia-cinquegrana) •
+<i class="bi bi-gitlab"></i> [GitLab](https://gitlab.com/giulia-cinquegrana) •
+<i class="bi bi-person-badge"></i> [ORCID](https://orcid.org/0000-0001-7902-8134) •
+<i class="bi bi-mortarboard"></i> [Google Scholar](https://scholar.google.com.au/citations?user=0L16GYkAAAAJ&hl=en&oi=ao) •
+<i class="bi bi-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/giulia-cinquegrana-a59719143/) •
+<i class="bi bi-envelope"></i> [gcinquegrana@swin.edu.au](mailto:gcinquegrana@swin.edu.au)
 
 ---
 
@@ -35,7 +37,7 @@ Centre for Astrophysics & Supercomputing, Swinburne University of Technology
 
 ## Education
 
-### Doctor of Philosophy (Computational Astrophysics)
+### Doctor of Philosophy (Theoretical Astrophysics)
 **Monash University** | 2020–2024
 
 - Thesis: *The Edge of Enrichment: Contributions of Very Metal-Rich Stars to the Origin of the Elements*
@@ -80,30 +82,37 @@ Centre for Astrophysics & Supercomputing, Swinburne University of Technology
 
 ### Invited Seminars & Lectures
 
-**"Metallicity-Dependent Nucleosynthesis and the Chemical Evolution of Nuclear Star Clusters"**  
+**Tracing the Chemical Fingerprint of AGB Mass Transfer in Stellar Streams**
+*Seminar, Kyoto University*, Kyoto, Japan [2026]
+
+**Stellar Nucleosynthesis**  
+*Lecture, [BRIDGCE School](https://sites.google.com/view/bridgce-herts-2026/the-school), University of Hertfordshire*, Hatfield, England [2026]
+*Materials: [Stellar Nucleosynthesis](https://github.com/giulia-cinquegrana/bridgce2026-stellar-nucleosynthesis)*  
+
+**Metallicity-Dependent Nucleosynthesis and the Chemical Evolution of Nuclear Star Clusters**  
 *Seminar, Carnegie Observatories*, California, United States [2025]
 
-**"Nucleosynthetic Contributions of Very Metal-Rich Stars"**  
+**Nucleosynthetic Contributions of Very Metal-Rich Stars**  
 *Opening conference talk, Advances in Cool Evolved Stars*, Melbourne, Australia [2024]
 
-**"The Most Metal-Rich AGB Stars"**  
+**The Most Metal-Rich AGB Stars**  
 *Seminar, Indiana University*, Indiana, United States [2022]
 
 ### Contributed Conference Talks
 
-**“Chemical enrichment from AGBs in the 300S stream”**  
+**Chemical enrichment from AGBs in the 300S stream**  
 *Nucleosynthesis from Stars to Galaxies*, Tucson, United States [2026]
 
-**“Nucleosynthetic Contributions of Very Metal-Rich Stars”**  
+**Nucleosynthetic Contributions of Very Metal-Rich Stars**  
 *Connecting Simulations and Observations in 3D Across Cosmic Time*, Adelaide, Australia [2024]  
 
-**“Implications of a High Metallicity on the Minimum Mass for a SNe Type II”**  
+**Implications of a High Metallicity on the Minimum Mass for a SNe Type II**  
 *Australian National Institute for Theoretical Astrophysics (ANITA) Annual Workshop*, Adelaide, Australia [2023]
 
-**“The Most Metal-Rich AGB Stars”**  
+**The Most Metal-Rich AGB Stars**  
 *A Comprehensive View of Galaxy Evolution from the Milky Way to I Zwicky 18*, Sesto Pusteria, Italy [2022]
 
-**“Modelling the Chemical Contributions of High Metallicity AGB and Super-AGB Stars”**  
+**Modelling the Chemical Contributions of High Metallicity AGB and Super-AGB Stars**  
 *DELVE: the death-throes of evolved stars, a virtual encounter*, KU Leuven, Belgium [2021]
 
 ## Awards
@@ -119,9 +128,9 @@ Centre for Astrophysics & Supercomputing, Swinburne University of Technology
 
 ## Professional Qualifications
 
-### Associate Fellow (AFHEA)
-**[Advance HE](https://www.advance-he.ac.uk/fellowship/fellowship)**  
-**2023**
+**Associate Fellow, [Advance HE](https://www.advance-he.ac.uk/fellowship/fellowship)**  
+*Professional recognition of teaching and learning practice in higher education.* 
+Specialised in student-centred and inquiry-based teaching in undergraduate physics and postgraduate astrophysics, including learner-centred assessment and feedback.
 
 ## Teaching
 
